@@ -1,0 +1,10 @@
+#drop_zone {
+    background-color: rgb(196, 196, 196);
+    width: 200px;
+    height: 100px;
+    padding-top: 35px;
+
+    text-align: center;
+    border-radius: 5px;
+
+}
